@@ -1,4 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Vanessa+Nunes;+Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+<p>
+  
 <div align="center">
   <a href="https://github.com/VanessaNunnes">
   <img src="https://github-readme-stats.vercel.app/api?username=VanessaNunnes&amp;show_icons=true&amp;theme=jolly&amp;include_all_commits=true&amp;count_private=true&amp;hide=contribs"style="margin-right: 10px;">
@@ -21,3 +25,7 @@
   <a href = "mailto:vanessafurtadonunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/vanessa-furtado-nunes-92a9b92a4/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
 </div>
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=footer"/>
